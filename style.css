@@ -1,0 +1,15 @@
+
+/* style.css */
+body {
+    background-color: #F0E68C; /* Set the background color of the entire page */
+}
+
+h1 {
+    color: #FF4500; /* Set the text color of h1 elements */
+}
+
+/* Add more CSS rules as needed */
+
+p {
+    color: red; /* Change 'red' to the desired color */
+}
