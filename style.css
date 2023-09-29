@@ -13,3 +13,11 @@ h1 {
 p {
     color: red; /* Change 'red' to the desired color */
 }
+
+.orange {
+    text-align: center;
+
+  }
+
+.myform {text-align: center; 
+         background-color: aquamarine;}
