@@ -1,6 +1,6 @@
 .orange {
-    align-items: center;
+    text-align: center;
 
   }
 
-.myform {text-align: center;}
+.myform {text-align: center; background-color: aquamarine;}
